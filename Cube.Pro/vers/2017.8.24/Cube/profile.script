@@ -1,0 +1,4 @@
+$Cube:Hello=魔方用户
+$CPM:Source=http://market.cubizen.cn/Packages.json
+Start-Shell
+Save-AllPluginConfig

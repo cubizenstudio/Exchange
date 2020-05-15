@@ -1,0 +1,6 @@
+Show-Message:
+	define ?title as string
+	define message as string
+	invoke Show_Message in Cube.Pro.Shell.BuiltCommands
+List-Events:
+	invoke List_Events in Cube.Pro.Shell.BuiltCommands

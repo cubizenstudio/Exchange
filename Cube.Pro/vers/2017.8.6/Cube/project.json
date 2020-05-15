@@ -1,0 +1,10 @@
+{
+	"name":"Cube Professional - 魔方专业版",
+	"modules":[
+		"Cube.Pro.Core.dll",
+		"Cube.Pro.PackageManager.dll",
+		"Cube.Pro.Plugins.dll",
+		"Cube.Pro.Visuals.dll",
+		"Cube.Pro.Shell.exe",
+	]
+}
