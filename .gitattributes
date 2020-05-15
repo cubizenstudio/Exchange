@@ -1,0 +1,3 @@
+*.dll linguist-language=c#
+*.exe linguist-language=c#
+*.json linguist-language=c#
